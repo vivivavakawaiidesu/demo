@@ -1,13 +1,12 @@
 {
   "name": "vivivava",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "ลุ้นรวยด้วยการ ทดลองเล่นบาคาร่าวัววัว ฟรี ! สมัครวันนี้ลุ้นรับเงินแสน",
   "keywords": [
     "ทดลองเล่นบาคาร่าวัววัว",
     "ทดลองเล่นบาคาร่า ฟรี",
     "ทดลองเล่นบาคาร่า"
-
   ],
   "repository": "https://github.com/vivivavakawaiidesu/demo",
   "license": "MIT",
